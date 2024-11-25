@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a budding developer with a passion for learnin
 
 ## 🛠️ Technologies & Tools
 
-- **Languages**: Kotlin, Dart
+- **Languages**: Kotlin, Dart, Swift
 - **Frameworks**: Flutter
 - **Tools**: Git, VS Code
 
